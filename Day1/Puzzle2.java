@@ -28,6 +28,8 @@ public class Puzzle2{
             }
         }
 
+        sc.close();
+
 
         System.out.println(similarity);
     }
